@@ -1,0 +1,18 @@
+
+/* Gaya untuk form */
+form {
+  max-width: 400px; /* Menetapkan lebar maksimum form */
+  margin: auto; /* Memusatkan form */
+}
+
+/* Gaya untuk tombol */
+.btn-primary {
+  background-color: #007bff; /* Warna latar belakang tombol */
+  color: #fff; /* Warna teks tombol */
+  border: none; /* Menghilangkan border tombol */
+}
+
+/* Gaya untuk tombol saat dihover */
+.btn-primary:hover {
+  background-color: #0056b3; /* Warna latar belakang tombol saat dihover */
+}

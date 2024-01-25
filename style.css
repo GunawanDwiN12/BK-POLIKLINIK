@@ -1,0 +1,53 @@
+
+    /* Gaya untuk thumbnail dan paragraf pada halaman home */
+    .home-container {
+        padding: 40px;
+        background-color: #f8f9fa; /* Warna latar belakang */
+    }
+
+    .home-container img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .home-container h4 {
+        color: #17a2b8; /* Warna judul */
+        margin-top: 20px;
+    }
+
+    .home-container .list-group {
+        margin-top: 20px;
+    }
+
+    .list-group-item {
+        background-color: #007bff; /* Warna latar belakang item list */
+        color: #fff; /* Warna teks item list */
+    }
+
+    .list-group-item:hover {
+        background-color: #0056b3; /* Warna latar belakang item list saat dihover */
+    }
+/* Gaya untuk navbar */
+.navbar {
+    background-color: #28a745; /* Warna latar belakang navbar */
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: #fff; /* Warna ikon toggle navbar */
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important; /* Warna teks menu navbar */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #f8f9fa !important; /* Warna teks menu navbar saat dihover */
+}
+
+.navbar-toggler {
+    border-color: #fff; /* Warna border toggle navbar */
+}
+
+.navbar-toggler:hover {
+    background-color: #fff; /* Warna latar belakang toggle navbar saat dihover */
+}
